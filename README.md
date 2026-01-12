@@ -1,1 +1,1 @@
-
+# Ссылка на гугл диск для «Python для анализа данных»: https://drive.google.com/file/d/19GLwismNnF1GKF9JHv-3uWtkZsZVCzrl/view?usp=sharing, https://drive.google.com/file/d/1OIPCSf1QIFePFD1nVc8OS1EjDkD1IznJ/view?usp=sharing
